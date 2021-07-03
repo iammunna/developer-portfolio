@@ -27,8 +27,9 @@ section{
 }
 .hire-me-now{
     text-decoration: none;
-    background-color:  rgb(75, 155, 247);
+    background-image: linear-gradient(#6e7dfd, #2248c5);  
     color: white;
     padding: 8px 25px;
     border-radius: 5px;
+    font-weight: 700;
 }
