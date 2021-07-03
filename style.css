@@ -5,6 +5,7 @@ h1{
 body{
     font-family: 'Open Sans Condensed', sans-serif;
 font-family: 'Poppins', sans-serif;
+margin: 0px;
 }
 .orange-color{
     color: orange;
@@ -32,4 +33,15 @@ section{
     padding: 8px 25px;
     border-radius: 5px;
     font-weight: 700;
+}
+.top-sec-1{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+.h1-title{
+    font-weight: 700;
+    font-size: 300%;
+    padding-left: 10%;
+    
 }
