@@ -9,3 +9,16 @@ font-family: 'Poppins', sans-serif;
 .orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 92%;
+}
+.half-width p{
+    width: 80%;
+    font-size: 13px;
+}
