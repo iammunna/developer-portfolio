@@ -14,11 +14,21 @@ section{
 }
 .half-width{
     width: 50%;
+    padding: 3%;
 }
 .half-width img{
-    width: 92%;
+    width: 85%;
+    padding-top: 38%;
+
 }
 .half-width p{
     width: 80%;
     font-size: 13px;
+}
+.hire-me-now{
+    text-decoration: none;
+    background-color:  rgb(75, 155, 247);
+    color: white;
+    padding: 8px 25px;
+    border-radius: 5px;
 }
