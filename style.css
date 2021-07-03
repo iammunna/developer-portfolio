@@ -8,7 +8,7 @@ font-family: 'Poppins', sans-serif;
 margin: 0px;
 }
 .orange-color{
-    color: orange;
+    color: #ffa500;
 }
 section{
     display: flex;
@@ -43,5 +43,7 @@ section{
     font-weight: 700;
     font-size: 300%;
     padding-left: 10%;
-    
+}
+.author{
+    color: #ffa500;
 }
