@@ -66,5 +66,32 @@ margin: 0px;
     background-image: url(image/dream-bg.png);
     background-repeat: no-repeat;
     background-position-x: right;
+}
+.ex-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 15px;
+
+}
+.ex-title{
+    font-size: 230%;
+}
+.ex{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
     
+}
+#baccha-khadok{
+    border-image: linear-gradient( blue, red);
+    border-image-slice: 1%;
+    border-left: 7px solid;
+}
+#full-khadok{
+    border-image: linear-gradient( blue, red);
+    border-image-slice: 1%;
+    border-left: 7px solid;
+
 }
