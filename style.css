@@ -94,3 +94,7 @@ margin: 0px;
     border-image-slice: 1%;
     border-left: 7px solid;
 }
+footer p{
+    text-align: center;
+    margin-top: 10%;
+}
